@@ -1,0 +1,1 @@
+jar -cvfm InteractiveClassroom.jar manifest.mf *class classroom/*.class classroom/visual/*.class classroom/colorOp/*.class classroom/rescaleOp/*.class resources/patterns/* resources/images/* resources/sounds/*
